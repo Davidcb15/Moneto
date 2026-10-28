@@ -81,3 +81,17 @@ La aplicación se organiza en las siguientes carpetas y archivos principales:
 Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes abrir un "issue" para reportar errores o sugerir nuevas funcionalidades, o enviar un "pull request" con tus propias mejoras.
 
 ¡Esperamos que esta aplicación te sea de gran utilidad para gestionar tus finanzas!
+
+## Capturas de pantalla
+
+<img src="E:\Pictures\Cap Moneto\Bienvenido.jpeg" width="20" height="20"/>
+<img src="E:\Pictures\Cap Moneto\registro.jpeg"/>
+<img src="E:\Pictures\Cap Moneto\login.jpeg"/>
+<img src="E:\Pictures\Cap Moneto\principal.jpeg">
+<img src="E:\Pictures\Cap Moneto\transportes.jpeg"/>
+<img src="E:\Pictures\Cap Moneto\detalles.jpeg"/>
+<img src="E:\Pictures\Cap Moneto\añadir detalles.jpeg"/>
+<img src="E:\Pictures\Cap Moneto\detalles 2.jpeg"/>
+<img src="E:\Pictures\Cap Moneto\reportes.jpeg"/>
+<img src="E:\Pictures\Cap Moneto\pdf.jpeg"/>
+
